@@ -96,9 +96,9 @@ code_commit - код коммита, к которому хотим перейт
 
 Примеры:
 
-> git add --help
+1. > git add --help
 
-> git branch --help
+2. > git branch --help
 
 
 
